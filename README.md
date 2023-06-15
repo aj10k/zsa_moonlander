@@ -1,5 +1,5 @@
 # zsa_moonlander
-Keyboard layout for vim and my LARBS fork
+Keyboard layout for qwerty and vim
 
 [View on ZSA site](https://configure.zsa.io/moonlander/layouts/oGgVZ/latest/0)
 
